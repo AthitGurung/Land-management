@@ -1,0 +1,10 @@
+===== Rent Invoice =====
+
+Land ID: 101
+City/District: Kathmandu
+Land Facing Direction: North
+Area of Land: 4 anna
+Customer Name: Rijan
+Rent Date: 2024-05-06 11:02:31
+Duration of Rent: 5 months
+Total Amount: NPR 250000
